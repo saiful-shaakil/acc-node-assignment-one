@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "User 1",
+    "gender": "male",
+    "contact": "01883234384",
+    "address": "Dhaka, Bangladesh",
+    "photoUrl": "https://www.unknown.com/user_one.png"
+  },
+  {
+    "id": 2,
+    "name": "User 2",
+    "gender": "female",
+    "contact": "01883833334",
+    "address": "Dhaka, Bangladesh",
+    "photoUrl": "https://www.unknown.com/user_two.png"
+  },
+  {
+    "id": 3,
+    "name": "User 3",
+    "gender": "male",
+    "contact": "0188384343",
+    "address": "Dhaka, Bangladesh",
+    "photoUrl": "https://www.unknown.com/user_three.png"
+  },
+  {
+    "id": 4,
+    "name": "User 4",
+    "gender": "male",
+    "contact": "01845448384",
+    "address": "Ctg, Bangladesh",
+    "photoUrl": "https://www.unknown.com/user_four.png"
+  },
+  {
+    "id": 5,
+    "name": "User 5",
+    "gender": "female",
+    "contact": "0188334584",
+    "address": "Dhaka, Bangladesh",
+    "photoUrl": "https://www.unknown.com/user_five.png"
+  }
+]
